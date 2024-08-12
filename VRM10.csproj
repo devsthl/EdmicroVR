@@ -148,8 +148,8 @@
     <Compile Include="Assets\VRM10\Runtime\IO\VrmAnimationUtil.cs" />
     <Compile Include="Assets\VRM10\Runtime\Migration\Vrm0XVersion.cs" />
     <Compile Include="Assets\VRM10\Runtime\ControlRig\AnimatorPoseProvider.cs" />
-    <Compile Include="Assets\VRM10\Runtime\Components\Vrm10Instance\Vrm10Instance.cs" />
     <Compile Include="Assets\VRM10\Runtime\IO\Material\BuiltInRP\Export\Materials\BuiltInVrm10MToonMaterialExporter.cs" />
+    <Compile Include="Assets\VRM10\Runtime\Components\Vrm10Instance\Vrm10Instance.cs" />
     <Compile Include="Assets\VRM10\Runtime\Format\SpringBoneExtendedCollider\Deserializer.g.cs" />
     <Compile Include="Assets\VRM10\Runtime\Scenes\Sample.cs" />
     <Compile Include="Assets\VRM10\Runtime\Format\SpringBone\Format.g.cs" />
@@ -193,8 +193,8 @@
     <Compile Include="Assets\VRM10\Runtime\Components\LookAt\CurveMapper.cs" />
     <Compile Include="Assets\VRM10\Runtime\Components\LookAt\LookAtEyeDirectionApplicableToExpression.cs" />
     <Compile Include="Assets\VRM10\Runtime\ControlRig\BoneInitialRotation.cs" />
-    <Compile Include="Assets\VRM10\Runtime\Migration\RotateY180.cs" />
     <Compile Include="Assets\VRM10\Runtime\Migration\MigrationVrmExpression.cs" />
+    <Compile Include="Assets\VRM10\Runtime\Migration\RotateY180.cs" />
     <Compile Include="Assets\VRM10\Runtime\Components\Vrm10Runtime\Vrm10Runtime.cs" />
     <Compile Include="Assets\VRM10\Runtime\Version\VRMSpecVersion.cs" />
     <Compile Include="Assets\VRM10\Runtime\IO\Model\MeshVertexUtility.cs" />
